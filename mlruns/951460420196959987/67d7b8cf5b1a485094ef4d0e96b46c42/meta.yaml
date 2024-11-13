@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Marc%20Jay/Ironhack/ironhack-v4-data-lessons/mlruns/951460420196959987/67d7b8cf5b1a485094ef4d0e96b46c42/artifacts
+deleted_time: 1731407145255
+end_time: 1731406662030
+entry_point_name: ''
+experiment_id: '951460420196959987'
+lifecycle_stage: deleted
+run_id: 67d7b8cf5b1a485094ef4d0e96b46c42
+run_name: XGBoost
+run_uuid: 67d7b8cf5b1a485094ef4d0e96b46c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731406661634
+status: 4
+tags: []
+user_id: Marc Jay

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Marc%20Jay/Ironhack/ironhack-v4-data-lessons/mlruns/0/5e337e47b1d5458394e9886929b4da77/artifacts
+deleted_time: 1731407157886
+end_time: 1731405804944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5e337e47b1d5458394e9886929b4da77
+run_name: big-koi-960
+run_uuid: 5e337e47b1d5458394e9886929b4da77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731405800608
+status: 4
+tags: []
+user_id: Marc Jay

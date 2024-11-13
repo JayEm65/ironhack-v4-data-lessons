@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Marc%20Jay/Ironhack/ironhack-v4-data-lessons/mlruns/951460420196959987/5861ad154c314841b501605fe235bc70/artifacts
+deleted_time: 1731407145237
+end_time: 1731405851004
+entry_point_name: ''
+experiment_id: '951460420196959987'
+lifecycle_stage: deleted
+run_id: 5861ad154c314841b501605fe235bc70
+run_name: Random Forest
+run_uuid: 5861ad154c314841b501605fe235bc70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731405847858
+status: 4
+tags: []
+user_id: Marc Jay
