@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Marc%20Jay/Ironhack/ironhack-v4-data-lessons/mlruns/0/4d89537ebc314a4a9eec0c25141dddff/artifacts
+deleted_time: 1731407157901
+end_time: 1731406661485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4d89537ebc314a4a9eec0c25141dddff
+run_name: placid-wren-979
+run_uuid: 4d89537ebc314a4a9eec0c25141dddff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731406657195
+status: 3
+tags: []
+user_id: Marc Jay

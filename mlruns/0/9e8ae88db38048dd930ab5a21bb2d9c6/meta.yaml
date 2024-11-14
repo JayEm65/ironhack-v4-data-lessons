@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Marc%20Jay/Ironhack/ironhack-v4-data-lessons/mlruns/0/9e8ae88db38048dd930ab5a21bb2d9c6/artifacts
+deleted_time: 1731407157894
+end_time: 1731406398458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9e8ae88db38048dd930ab5a21bb2d9c6
+run_name: nebulous-crab-210
+run_uuid: 9e8ae88db38048dd930ab5a21bb2d9c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731406394098
+status: 3
+tags: []
+user_id: Marc Jay

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marc%20Jay/Ironhack/ironhack-v4-data-lessons/mlruns/0/00082f564dad41c48f02106449fcec59/artifacts
+end_time: 1731406864567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00082f564dad41c48f02106449fcec59
+run_name: mysterious-shrew-340
+run_uuid: 00082f564dad41c48f02106449fcec59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731406860260
+status: 3
+tags: []
+user_id: Marc Jay
